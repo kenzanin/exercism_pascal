@@ -1,0 +1,14 @@
+# Build artifacts
+*.o
+*.ppu
+build/
+
+# IDE files
+*.lpi
+*.lpr
+*.lps
+*.lfm
+
+# OS files
+.DS_Store
+Thumbs.db
