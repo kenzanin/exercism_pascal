@@ -24,7 +24,7 @@ To download an exercise, use the following command:
 
 ### Difficulty 3 (Medium)
 
-- [ ] `acronym`
+- [x] `acronym`
 - [ ] `allergies`
 - [ ] `anagram`
 - [ ] `armstrong-numbers`
@@ -132,3 +132,4 @@ To download an exercise, use the following command:
 - [x] `satellite`
 - [x] `collatz-conjecture`
 - [x] `two-fer`
+- [x] `acronym`
