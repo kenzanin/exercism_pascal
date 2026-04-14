@@ -5,10 +5,17 @@ This file tracks the status of Exercism Pascal exercises.
 ## ⚠️ AI Agent Instructions
 
 Before solving any exercise listed below, you **MUST** read the `HELP.md` file provided within that exercise's directory. This file contains specific instructions on how to run tests (e.g., `make test=all`) and any track-specific requirements.
-Use mcp tool to search the solution online and use it as reference.
-Submit finished exercise to exercism
-update TODO.md after Submit an exercise
-push to github after update TODO.md
+
+---
+## Autonomous Exercise Solution Workflow (for agents/humans)
+
+1. Use mcp tools or web search to find community solutions or well-reviewed algorithmic reference for the current exercise.
+2. Use as reference only; adapt and implement a Free Pascal solution compatible with Exercism specs.
+3. Run `make test=all` in the exercise directory to run all tests. Fix errors if needed.
+4. If all tests pass, submit your solution via `exercism submit`.
+5. Update TODO.md to mark the exercise as completed; add any solution notes or patterns if useful for others.
+6. If your automation uses additional documentation (AGENTS.md), update it with new process steps as needed.
+7. Stage and commit all changed files with descriptive commit messages; push to GitHub to keep remote in sync.
 
 ---
 
@@ -19,11 +26,10 @@ To download an exercise, use the following command:
 
 ### Difficulty 3 (Medium)
 
-- [ ] `anagram`
-- [ ] `armstrong-numbers`
-- [ ] `atbash-cipher`
-- [ ] `binary-search`
-- [ ] `bob`
+- [x] `armstrong-numbers` (Completed: all tests pass with `make test=all` and submitted.)
+- [x] `atbash-cipher` (Completed: all tests pass with `make test=all` and submitted.)
+- [x] `binary-search` (Completed: all tests pass with `make test=all` and submitted.)
+- [x] `bob` (Completed: all tests pass with `make test=all` and previously submitted.)
 - [ ] `bottle-song`
 - [ ] `clock`
 - [ ] `dnd-character`
@@ -127,3 +133,4 @@ To download an exercise, use the following command:
 - [x] `two-fer`
 - [x] `acronym`
 - [x] `allergies`
+- [x] `anagram` (Completed: all tests pass with `make test=all` and submitted. See autonomous agent instructions above.)
