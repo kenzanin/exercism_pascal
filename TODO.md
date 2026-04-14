@@ -25,7 +25,7 @@ To download an exercise, use the following command:
 ### Difficulty 3 (Medium)
 
 - [x] `acronym`
-- [ ] `allergies`
+- [x] `allergies`
 - [ ] `anagram`
 - [ ] `armstrong-numbers`
 - [ ] `atbash-cipher`
@@ -133,3 +133,4 @@ To download an exercise, use the following command:
 - [x] `collatz-conjecture`
 - [x] `two-fer`
 - [x] `acronym`
+- [x] `allergies`
