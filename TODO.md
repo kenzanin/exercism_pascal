@@ -17,15 +17,8 @@ push to github after update TODO.md
 To download an exercise, use the following command:
 `exercism download --track=free-pascal --exercise=[slug]`
 
-### Difficulty 2 (Easy)
-
-- [x] `collatz-conjecture`
-- [x] `two-fer`
-
 ### Difficulty 3 (Medium)
 
-- [x] `acronym`
-- [x] `allergies`
 - [ ] `anagram`
 - [ ] `armstrong-numbers`
 - [ ] `atbash-cipher`
