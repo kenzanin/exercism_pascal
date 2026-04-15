@@ -26,14 +26,10 @@ To download an exercise, use the following command:
 
 ### Difficulty 3 (Medium)
 
-- [x] `armstrong-numbers` (Completed: all tests pass with `make test=all` and submitted.)
-- [x] `atbash-cipher` (Completed: all tests pass with `make test=all` and submitted.)
-- [x] `binary-search` (Completed: all tests pass with `make test=all` and submitted.)
-- [x] `bob` (Completed: all tests pass with `make test=all` and previously submitted.)
-- [ ] `bottle-song`
-- [ ] `clock`
+- [x] `bottle-song` (All tests pass with `make test=all`; solution implemented and prepared for submission.)
+- [x] `clock` (All tests pass with `make test=all`; solution already verified.)
 - [ ] `dnd-character`
-- [ ] `diamond`
+- [x] `diamond` (All tests pass with `make test=all`; solution implemented and prepared for submission.)
 - [ ] `eliuds-eggs`
 - [ ] `etl`
 - [ ] `gigasecond`
@@ -134,3 +130,10 @@ To download an exercise, use the following command:
 - [x] `acronym`
 - [x] `allergies`
 - [x] `anagram` (Completed: all tests pass with `make test=all` and submitted. See autonomous agent instructions above.)
+- [x] `armstrong-numbers` (Completed: all tests pass with `make test=all` and submitted.)
+- [x] `atbash-cipher` (Completed: all tests pass with `make test=all` and submitted.)
+- [x] `binary-search` (Completed: all tests pass with `make test=all` and submitted.)
+- [x] `bob` (Completed: all tests pass with `make test=all` and previously submitted.)
+- [x] `bottle-song` (Completed: implementation updated to match tests; all tests pass with `make test=all`.)
+- [x] `diamond` (Completed: implementation added; all tests pass with `make test=all`.)
+- [x] `clock` (Verified: tests pass with `make test=all`.)
