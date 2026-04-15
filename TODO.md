@@ -26,10 +26,7 @@ To download an exercise, use the following command:
 
 ### Difficulty 3 (Medium)
 
-- [x] `bottle-song` (All tests pass with `make test=all`; solution implemented and prepared for submission.)
-- [x] `clock` (All tests pass with `make test=all`; solution already verified.)
-- [ ] `dnd-character`
-- [x] `diamond` (All tests pass with `make test=all`; solution implemented and prepared for submission.)
+- [x] `dnd-character` (Completed: implementation added; all tests pass with `make test=all`.)
 - [ ] `eliuds-eggs`
 - [ ] `etl`
 - [ ] `gigasecond`
